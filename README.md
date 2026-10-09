@@ -45,7 +45,7 @@ Try Personality Quest Live`</strong>`{=html}`</a>`{=html}
 
   Output classes                      Ambivert, Extrovert, Introvert
 
-  Reported accuracy                   **99.775%** (as measured in the
+  Reported accuracy                   **99.75%** (as measured in the
                                       project's local evaluation;
                                       evaluation setup should be
                                       documented in the training
