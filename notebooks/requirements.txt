@@ -1,0 +1,12 @@
+# Dependencies for notebooks/personality_model_training.ipynb
+# Install from the project root with:
+# python -m pip install -r notebooks/requirements.txt
+
+NumPy==2.5.3
+Pandas==3.0.6
+Matplotlib==3.11.2
+Seaborn==0.13.2
+SciPy==1.18.1
+Scikit-learn==1.9.1
+Joblib==1.6.0
+JupyterLab==4.6.3
